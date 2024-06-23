@@ -1,0 +1,19 @@
+@import url("./global/global.css");
+@import url("./pages/index/partials/section1.css");
+
+.container-section {
+    margin: 0 auto;
+    width: 1320px;
+    min-height: 100%;
+    height: auto;
+    display: grid;
+    grid-auto-flow: column;
+    justify-content: space-between;
+    align-content: center;
+}
+
+/* Viewport Height */
+
+/* Section1 - 560px */
+/* Section2 - 1080px */
+/* Section3 - 650px */
